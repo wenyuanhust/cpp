@@ -24,12 +24,24 @@
     <ClCompile Include="Fred.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="myPoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myPoD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="conversion.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Fred.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myPoD.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

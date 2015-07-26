@@ -77,10 +77,14 @@
     <ClCompile Include="conversion.cpp" />
     <ClCompile Include="Fred.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="myPoD.cpp" />
+    <ClCompile Include="myPoint.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="conversion.h" />
     <ClInclude Include="Fred.h" />
+    <ClInclude Include="myPoD.h" />
+    <ClInclude Include="myPoint.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
